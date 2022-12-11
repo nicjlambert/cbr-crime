@@ -17,5 +17,7 @@ Read the data from the file and store it in a dataframe using the pandas read_cs
 Use the geocoder library to geocode the addresses of each neighborhood and add the latitude and longitude coordinates to the dataframe.
 Use the folium library to create a map of Canberra with markers for each neighborhood, showing the top venues in each neighborhood when clicked.
 
+![A map of Canberra showing markers for the centroid of each suburb.](images/map.png)
+
 ## Output
 The code will generate an HTML file containing the map of Canberra with markers for each neighborhood. This file can be opened in a web browser to view the map.
